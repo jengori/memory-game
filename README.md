@@ -1,6 +1,6 @@
 # Memory Game
 
-This is my assignment for week 5 of the Code First Girls (https://codefirstgirls.com) JavaScript course.
+This is my assignment for week 5 of the [Code First Girls](https://codefirstgirls.com) JavaScript course.
 
 ### Screenshot
 
